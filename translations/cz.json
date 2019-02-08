@@ -1,0 +1,21 @@
+{
+  "error-occured": "Chyba zabránila správnému fungování rozšíření: ",
+  "version-update-message": "Právě používáš ezpp! v{0}",
+  "changelog": "Seznam změn",
+  "accuracy": "Přesnost",
+  "combo": "Combo",
+  "empty-fc": "(prázdné = FC)",
+  "misses": "Netrefené",
+  "mod-hidden": "Hidden",
+  "mod-hardrock": "HardRock",
+  "mod-doubletime": "DoubleTime",
+  "mod-flashlight": "Flashlight",
+  "mod-nofail": "NoFail",
+  "mod-easy": "Easy",
+  "mod-halftime": "HalfTime",
+  "mod-spunout": "SpunOut",
+  "language": "Jazyk",
+  "settings": "Nastavení",
+  "analytics": "Odesílat anonymní analytické údaje",
+  "result": "Je to asi {0}pp."
+}
